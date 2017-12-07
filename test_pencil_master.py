@@ -9,7 +9,7 @@ texture_file_name = 'textures/texture1.jpg'
 texture = mpimg.imread(texture_file_name)
 
 img_new = pencil_draw(img, texture)
-#mpimg.imsave(img_name + 'skecth.png', img_new, cmap=plt.cm.gray)
+mpimg.imsave(img_name + 'skecth.png', img_new, cmap=plt.cm.gray)
 plt.imshow(img_new, cmap='gray')
 
 img_new_color = pencil_draw_color(img, texture)
