@@ -12,6 +12,6 @@ You can simply use function *pencil_draw* and *pencil\_draw\_color* to do them s
 
 ##Reference
 Lu, Cewu, Li Xu, and Jiaya Jia. "Combining sketch and tone for pencil drawing production." Proceedings of the Symposium on Non-Photorealistic Animation and Rendering. Eurographics Association, 2012.
-Matlab version: https://github.com/fumin/pencil
+
 
 Matlab ver: https://github.com/fumin/pencil
