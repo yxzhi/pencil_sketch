@@ -10,7 +10,7 @@ Both sketch with color and black-and-white sketch are generated.
 
 You can simply use function *pencil_draw* and *pencil\_draw\_color* to do them sperately.
 
-##Reference
+## Reference
 Lu, Cewu, Li Xu, and Jiaya Jia. "Combining sketch and tone for pencil drawing production." Proceedings of the Symposium on Non-Photorealistic Animation and Rendering. Eurographics Association, 2012.
 
 
